@@ -8,6 +8,9 @@
 # How to setup ?
 
 <i>Server Side</i>
+
+![](https://img.shields.io/badge/warning-server-orange) Change .env.sample to .env
+
 <pre>
 root@ubuntu-# bash setup.sh --install 
 root@ubuntu-# bash setup.sh --run 'your ip'
