@@ -1,0 +1,12 @@
+{
+    "name": "Literations",
+    "description": "Online Library Application",
+    "env": {
+        "DB": {
+            "value": "mongodb+srv://fajar:firdaus@cluster0.wsswa.mongodb.net/literations?retryWrites=true&w=majority"
+        },
+        "secret": {
+            "value": "literations"
+        }
+    }
+}
