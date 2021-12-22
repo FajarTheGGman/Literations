@@ -1,6 +1,4 @@
 # Literations
-![](https://img.shields.io/badge/warning-information-yellow) This is just for experimental projects
-
 ![](https://img.shields.io/badge/nodejs-v1.16.7.0-lime) ![](https://img.shields.io/badge/expo-v4.12.7-white) ![](https://img.shields.io/badge/react-native-blue) ![](https://img.shields.io/badge/mongo-db-green)
 
 <img src="https://raw.githubusercontent.com/chemical-labs/reading-stuff/main/public/banner.png" width="600"  />
